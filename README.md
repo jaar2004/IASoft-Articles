@@ -1,6 +1,7 @@
 # IASoft-Articles
-Artciles project
+Articles project
+
 
 
 # Date created
-sunday, sep 22
+Sunday, sep 22
